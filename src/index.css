@@ -18,11 +18,10 @@ code {
 
 .header {
   background-color: #FC7A1D;
-  padding: 10px 0;
+  padding: 10px;
   position: sticky;
   display: flex;
   align-items: center; 
-  z-index: 100;
   justify-content: space-between;
 }
 
@@ -34,9 +33,119 @@ code {
 }
 
 .h2 {
+  position: absolute;
+  top: 90%; 
+  left: 83%;
+  color: #fff;
+}
+.h3 {
+  position: absolute;
+  top: 90.7%; 
+  left: 90%;
+  color: #fff;
+}
+
+.h4 {
+  position: absolute;
+  top: 87%;
+  left: 10%;
+  color: #fff;
+}
+
+.h5 {
+  background-color: #FC7A1D;
+  padding: 40px;
+  display: flex; 
+  justify-content: space-between;
+}
+
+.h6 {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  Width: 4000px;
-  Height: 760px
+  justify-content: space-between;
+}
+
+.h7 {
+  justify-content: space-between;
+  position: absolute;
+  top: 200%; 
+  left: 55%;
+  color: #fff;
+  background-color: #000;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.h8 {
+  justify-content: space-between;
+  display: flex;
+  top: 220%; 
+  left: 20%;
+  position: absolute;
+  background-color: #F5F5DC;
+  border-radius: 10px;
+}
+
+.h9 {
+  justify-content: space-between;
+  position: absolute;
+  top: 80%; 
+  left: 8%;
+  color: #fff;
+  background-color: #000;
+  border-radius: 10px;
+  padding: 20px;
+}
+.h10 {
+  justify-content: space-between;
+  position: absolute;
+  top: 220%; 
+  left: 50%;
+ }
+
+.h11 {
+  justify-content: space-between;
+  position: absolute;
+  top: 290%; 
+  left: 20%;
+ }
+
+.h12 {
+  justify-content: space-between;
+  position: absolute;
+  top: 360%; 
+  left: 20%;
+ }
+.h13 {
+    justify-content: space-between;
+    position: absolute;
+    top: 400%; 
+    left: 15%;
+  }
+  
+.h14 {
+   justify-content: space-between;
+   position: absolute;
+   top: 490%; 
+   left: 20%;
+  }
+
+.h15 {
+ justify-content: space-between;
+ position: absolute;
+ top: -12%; 
+ left: 30%;
+  }
+
+.h16 {
+ justify-content: space-between;
+  position: absolute;
+  top: 550%; 
+  left: 20%;
+}
+
+.h17 {
+  justify-content: space-between;
+  position: absolute;
+  top: 570%; 
+  left: 20%;
 }
